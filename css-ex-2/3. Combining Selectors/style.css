@@ -1,0 +1,20 @@
+/* Write your code here: */
+h1 {
+  color: blueviolet;
+}
+
+.heading-ul {
+  color: red;
+}
+
+ul li:nth-child(n + 1) {
+  color: green;
+}
+
+ul li:nth-child(1) {
+  color: blue;
+}
+
+ol p {
+  font-size: 55%;
+}
